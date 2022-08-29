@@ -1,0 +1,10 @@
+east (1)
+north(7)
+east(12)
+north(1)
+pickup
+backward(2)
+west(12)
+south(8)
+west(5)
+putdown
